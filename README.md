@@ -18,12 +18,6 @@ python Module_1_Project.py
 ## Sample Output
 FILE: malware.exe
 SHA256: a3f8c2d1...
-VirusTotal: https://virustotal.com/gui/file/a3f8c2d1...
-Compiled: 2039-07-16 (SUSPICIOUS - future timestamp)
-Overlay: clean
---- IMPORTS ---
---- SECTIONS ---
-.text: 6.24
 
 ## Skills Demonstrated
 - Python 3 binary analysis
